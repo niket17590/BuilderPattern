@@ -1,2 +1,2 @@
-# BuilderPatternWithJackson
- Builder Pattern with Jackson Data in Spring Boot
+# BuilderPattern
+ Builder Pattern in Spring Boot
